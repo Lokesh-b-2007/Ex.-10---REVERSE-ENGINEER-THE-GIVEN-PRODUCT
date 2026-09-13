@@ -43,8 +43,8 @@
 <img width="936" height="335" alt="image" src="https://github.com/user-attachments/assets/ed316053-9f7f-4d77-bf5e-92085376f027" />
 
 
-### Name: Omkar Varma S
-### Register Number: 212224240108
+### Name: LOKESH B
+### Register Number: 212224040172
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
